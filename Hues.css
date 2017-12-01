@@ -1,0 +1,19 @@
+﻿body {
+    background: #e3dedb;
+    overflow:hidden;
+}
+
+.bigText{
+    text-shadow: 2px 2px #c0c0c0;
+    text-align: center;
+vertical-align: middle;
+    font-weight:800;
+}
+
+.smallText{
+    text-shadow: 2px 2px #c0c0c0;
+    text-align: center;
+vertical-align: middle;
+    font-weight:400;
+    color:#000000;
+}

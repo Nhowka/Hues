@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="600"
+   id="svg4175"
+   version="1.1"
+   inkscape:version="0.48.4 r"
+   sodipodi:docname="NextBar.svg"
+   inkscape:export-filename="C:\Users\Diego\Documents\Visual Studio 2013\Projects\Hues\Hues\Hues.Shared\NextBar.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4177" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.22"
+     inkscape:cx="99.457857"
+     inkscape:cy="37.292754"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4183"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="1px"
+       spacingy="1px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="0,0"
+       id="guide4185" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="100,46"
+       id="guide4187" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,15"
+       id="guide4189" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,0"
+       id="guide4191" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="0,0"
+       id="guide4193" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,45"
+       id="guide4195" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,30"
+       id="guide4197" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,60"
+       id="guide4199" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4180">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-452.36218)">
+    <rect
+       style="fill:#e3dedb"
+       id="rect3025"
+       width="1000"
+       height="600"
+       x="0"
+       y="452.36218"
+       inkscape:export-filename="C:\Users\Diego\Documents\Visual Studio 2013\Projects\Hues\Hues\Hues.Shared\NextBar.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffc426;fill-opacity:1"
+       d="m 100,477.36196 800,0 c 100,0 100,100.0004 0,100.0004 l -800,0 c -100,0 -100,-100.0004 0,-100.0004 z"
+       id="path4942"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Diego\Documents\Visual Studio 2013\Projects\Hues\Hues\Hues.Shared\NextBar.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#3fa2d9;fill-opacity:1"
+       d="m 100,927.36236 800,0 c 100,0 100,100.00004 0,100.00004 l -800,0 c -100,0 -100,-100.00004 0,-100.00004 z"
+       id="path4946"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Diego\Documents\Visual Studio 2013\Projects\Hues\Hues\Hues.Shared\NextBar.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:0.74509804"
+       d="m 25.293176,972.67436 c -3.320447,26.459 21.563378,54.68804 74.690541,54.68804 l 800.032563,0 c 53.12717,0 78.01099,-28.22904 74.69055,-54.68804 -3.27718,23.122 -28.21429,44.68804 -74.69055,44.68804 l -800.032563,0 c -46.476251,0 -71.41337,-21.56604 -74.690541,-44.68804 z"
+       id="rect4237"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Diego\Documents\Visual Studio 2013\Projects\Hues\Hues\Hues.Shared\NextBar.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4389"
+       d="m 100,777.36236 800,0 c 100,0 100,100 0,100 l -800,0 c -100,0 -100,-100 0,-100 z"
+       style="fill:#d84444;fill-opacity:1"
+       inkscape:export-filename="C:\Users\Diego\Documents\Visual Studio 2013\Projects\Hues\Hues\Hues.Shared\NextBar.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4918"
+       d="m 25.293176,822.67436 c -3.320447,26.459 21.563378,54.688 74.690541,54.688 l 800.032563,0 c 53.12717,0 78.01099,-28.229 74.69055,-54.688 -3.27718,23.122 -28.21429,44.688 -74.69055,44.688 l -800.032563,0 c -46.476251,0 -71.41337,-21.566 -74.690541,-44.688 z"
+       style="fill:#000000;fill-opacity:0.74509804"
+       inkscape:export-filename="C:\Users\Diego\Documents\Visual Studio 2013\Projects\Hues\Hues\Hues.Shared\NextBar.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4944"
+       d="m 100,627.36236 800,0 c 100,0 100,100 0,100 l -800,0 c -100,0 -100,-100 0,-100 z"
+       style="fill:#e97e2e;fill-opacity:1"
+       inkscape:export-filename="C:\Users\Diego\Documents\Visual Studio 2013\Projects\Hues\Hues\Hues.Shared\NextBar.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4920"
+       d="m 25.293176,672.67436 c -3.320447,26.459 21.563378,54.688 74.690541,54.688 l 800.032563,0 c 53.12717,0 78.01099,-28.229 74.69055,-54.688 -3.27718,23.122 -28.21429,44.688 -74.69055,44.688 l -800.032563,0 c -46.476251,0 -71.41337,-21.566 -74.690541,-44.688 z"
+       style="fill:#000000;fill-opacity:0.74509804"
+       inkscape:export-filename="C:\Users\Diego\Documents\Visual Studio 2013\Projects\Hues\Hues\Hues.Shared\NextBar.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:0.74509804"
+       d="m 25.293176,522.67416 c -3.320447,26.4592 21.563378,54.6882 74.690541,54.6882 l 800.032563,0 c 53.12717,0 78.01099,-28.229 74.69055,-54.6882 -3.27718,23.1222 -28.21429,44.6882 -74.69055,44.6882 l -800.032563,0 c -46.476251,0 -71.41337,-21.566 -74.690541,-44.6882 z"
+       id="path4922"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="C:\Users\Diego\Documents\Visual Studio 2013\Projects\Hues\Hues\Hues.Shared\NextBar.png" />
+  </g>
+</svg>
